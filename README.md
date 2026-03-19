@@ -5,14 +5,13 @@ I am a Full-Stack Developer and a student at **Igor Sikorsky Kyiv Polytechnic In
 ---
 
 ### 💻 Core Tech Stack
-* **Frontend:** React, Next.js, Vite, Tailwind CSS.
-* **Backend:** Node.js, Express, NestJS, REST API.
+* **Frontend:** React, Next.js, Vite.
+* **Backend:** Node.js, PHP.
 * **Databases:** PostgreSQL, MongoDB.
 * **DevOps/OS:** Linux (Fedora), Bash.
 
 ### 🌟 Featured Projects
-* **Smart-Dash:** Full-Stack Dashboard (React/NestJS) for tracking educational tasks. [Coming soon...]
-* **React Quiz Platform:** A simple quiz app built with React and Vite. [Link to repo]
+* **Smart-Dash:** Full-Stack Dashboard (React/NestJS) for tracking educational tasks.
 
 ### 📫 Contact Me
 * **LinkedIn:** [vitalii-hladchenko-1668b52b7]
