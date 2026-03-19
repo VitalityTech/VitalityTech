@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Vitalii
 
-<!--
-**VitalityTech/VitalityTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack Developer and a student at **Igor Sikorsky Kyiv Polytechnic Institute**. I specialize in building web applications using **React**, **TypeScript**, and **Node.js** (NestJS).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Core Tech Stack
+* **Frontend:** React, Next.js, Vite, Tailwind CSS.
+* **Backend:** Node.js, Express, NestJS, REST API.
+* **Databases:** PostgreSQL, MongoDB.
+* **DevOps/OS:** Linux (Fedora), Bash.
+
+### 🌟 Featured Projects
+* **Smart-Dash:** Full-Stack Dashboard (React/NestJS) for tracking educational tasks. [Coming soon...]
+* **React Quiz Platform:** A simple quiz app built with React and Vite. [Link to repo]
+
+### 📫 Contact Me
+* **LinkedIn:** [vitalii-hladchenko-1668b52b7]
+* **Telegram:** [@Digitall_Vitalii]
