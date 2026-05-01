@@ -6,7 +6,6 @@ I am a Full-Stack Developer and a student at **Igor Sikorsky Kyiv Polytechnic In
 
 ### 💻 Core Tech Stack
 * **Frontend:** React, Next.js, Vite.
-* **Backend:** Node.js, PHP.
 * **Databases:** PostgreSQL, MongoDB.
 * **DevOps/OS:** Linux (Fedora), Bash.
 
